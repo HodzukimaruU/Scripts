@@ -1,0 +1,323 @@
+[
+    {
+        "name": "Centro Comercial MayorcaEtapa 1",
+        "address": "Medellín : Calle 51 Sur # 48 – 57 Local 324",
+        "phone": "3256600 ext 4906",
+        "working_hours": [
+            "Lunes a sábado: 9:00 a.m. – 8:00 p.m.",
+            "Domingos: 11:30 a.m. – 7:30 p.m"
+        ],
+        "coordinates": [
+            6.175487,
+            -75.6522944
+        ]
+    },
+    {
+        "name": "Centro Comercial MayorcaEtapa 2",
+        "address": "Medellín : Calle 51 Sur # 48 – 57 Local 0910",
+        "phone": "3256600 ext 4910",
+        "working_hours": [
+            "Lunes a sábado: 9:00 a.m. – 8:00 p.m.",
+            "Domingos: 11:30 a.m. – 7:30 p.m"
+        ],
+        "coordinates": [
+            6.175487,
+            -75.6522944
+        ]
+    },
+    {
+        "name": "Centro ComercialOviedo",
+        "address": "Medellín : Cra. 43a # 6 Sur – 15 Local 1324",
+        "phone": "3256600 ext 4902",
+        "working_hours": [
+            "Lunes a sábado: 9:00 a.m. – 8:00 p.m.",
+            "Domingos: 11:30 a.m. – 7:30 p.m."
+        ],
+        "coordinates": null
+    },
+    {
+        "name": "Centro Comercial Unicentro",
+        "address": "Medellín : Cra 66 B # 34 A 76Local 200",
+        "phone": "3256600 ext 4907",
+        "working_hours": [
+            "Lunes a sábado: 8:30 a.m. – 8:30 p.m.",
+            "Domingos: 10:30 a.m. – 7:30 p.m."
+        ],
+        "coordinates": null
+    },
+    {
+        "name": "Mall La Frontera",
+        "address": "Medellín : Cra. 43a # 18 Sur – 166Local 108",
+        "phone": "3256600 ext 4903",
+        "working_hours": [
+            "Lunes a sábado: 7:00 a.m. – 7:30 p.m.",
+            "Domingos: 8:30 a.m. – 5:00 p.m."
+        ],
+        "coordinates": null
+    },
+    {
+        "name": "Estación Ferrocarril",
+        "address": "Medellín :Cra. 52 # 43-31",
+        "phone": "3256600 ext 4913",
+        "working_hours": [
+            "Lunes a viernes: 6:30 a.m. – 5:30 p.m.",
+            "Sábados: 7:00 a.m. – 12:00 p.m."
+        ],
+        "coordinates": [
+            6.281569,
+            -75.5636324
+        ]
+    },
+    {
+        "name": "Universidad Pontificia Bolivariana",
+        "address": "Medellín : Circular 1 # 70 – 01Boulevar Biblioteca",
+        "phone": "3256600 ext 4911",
+        "working_hours": [
+            "Lunes a viernes: 6:30 a.m. – 8:30 p.m.",
+            "Sábados: 7:30 a.m. – 12:30 p.m."
+        ],
+        "coordinates": [
+            6.24195355,
+            -75.58953046554166
+        ]
+    },
+    {
+        "name": "Viva Laureles",
+        "address": "Medellín : Carrera 81 # 37 – 100Local 005",
+        "phone": "3256600 ext 4912",
+        "working_hours": [
+            "Lunes a sábado: 8:30 a.m. – 8:00 p.m.",
+            "Domingos y festivos: 10:30 a.m. – 7:00 p.m."
+        ],
+        "coordinates": [
+            6.2463447,
+            -75.6017758
+        ]
+    },
+    {
+        "name": "Terminal del Sur",
+        "address": "Medellín : Cra. 65 # 8 B 91Local 146",
+        "phone": "3256600 ext 4905",
+        "working_hours": [
+            "Lunes a sábado: 7:30 a.m. – 6:30 p.m.",
+            "Domingos: 8:30 a.m. – 6:00 p.m."
+        ],
+        "coordinates": null
+    },
+    {
+        "name": "Aeropuerto Olaya Herrera",
+        "address": "Medellín : Cra. 65a # 13 – 157Local 27 – 28",
+        "phone": "3256600 ext 4904",
+        "working_hours": [
+            "Lunes a sábado: 4:30 a.m. – 5:30 p.m.",
+            "Domingos: 6:30 a.m. – 5:00 p.m"
+        ],
+        "coordinates": [
+            6.227361,
+            -75.5839268
+        ]
+    },
+    {
+        "name": "Aeropuerto  InternacionalJosé María Córdoba",
+        "address": "Medellín : Entrada 4, Sala 9 Frente al counter de Avianca",
+        "phone": "3256600 ext 4914",
+        "working_hours": [
+            "Prestamos servicio 24 horas."
+        ],
+        "coordinates": [
+            6.2443382,
+            -75.573553
+        ]
+    },
+    {
+        "name": "Terminal del Norte",
+        "address": "Medellín : Carrera. 64c # 78 – 580Local 490",
+        "phone": "3256600 ext 4908",
+        "working_hours": [
+            "Lunes a sábado: 7:00 a.m. – 8:30 p.m.",
+            "Domingos: 8:30 a.m. – 7:30 p.m."
+        ],
+        "coordinates": [
+            6.27918575,
+            -75.57093620685927
+        ]
+    },
+    {
+        "name": "Parque el Poblado",
+        "address": "Medellín : Carrera 43A # 8 – 36",
+        "phone": "3256600 ext 4901",
+        "working_hours": [
+            "Lunes a sábado: 7:00 a.m. – 6:30 p.m.",
+            "Domingos: 9:30 a.m. – 3:30 p.m."
+        ],
+        "coordinates": [
+            6.2635605,
+            -75.5537379
+        ]
+    },
+    {
+        "name": "Centro ComercialEl Retiro",
+        "address": "Bogotá :Calle 82 11-75 Local 124",
+        "phone": null,
+        "working_hours": [
+            "Lunes a Sábado: 9:00 a. m. / 8:00 p.m.Domingos y festivos:  9:30 a. m. / 7:00 p.m"
+        ],
+        "coordinates": null
+    },
+    {
+        "name": "Centro ComercialPlaza De Las Américas",
+        "address": "Bogotá : Cra. 71d # 6 – 94 Sur Local 1908",
+        "phone": null,
+        "working_hours": [
+            "Lunes a Sábado: 9:00 a. m. / 8:00 p.m.Domingos y Festivos – 9:30 a. m. / 7:00 p.m."
+        ],
+        "coordinates": [
+            4.6180214,
+            -74.1338184
+        ]
+    },
+    {
+        "name": "Centro ComercialHacienda Santa Bárbara",
+        "address": "Bogotá : Av. Cra. 7 # 115 – 60 Local 220",
+        "phone": null,
+        "working_hours": [
+            "Lunes a Sábado: 9:00 a.m. / 7:30 p.m.Domingos y Festivos: 9:30 a.m. / 6:00 p.m."
+        ],
+        "coordinates": [
+            4.6643623,
+            -74.0474536
+        ]
+    },
+    {
+        "name": "Calle 119",
+        "address": "Bogotá : Calle 119 # 14 – 10",
+        "phone": null,
+        "working_hours": [
+            "Lunes a Sábado: 8:00 a. m. / 6:30 p.m.Domingo y festivos: 8:00 a. m./ 6:00 p.m."
+        ],
+        "coordinates": [
+            4.69896025,
+            -74.04235717806009
+        ]
+    },
+    {
+        "name": "Ktronix Salitre",
+        "address": "Bogotá : Cra 68b # 25 B – 80",
+        "phone": null,
+        "working_hours": [
+            "Lunes a Sábado: 8:30 a. m. / 7:30 p.m.Domingos y festivos: 8:30 a. m. / 6:00 p.m"
+        ],
+        "coordinates": [
+            4.6382666,
+            -74.1207875
+        ]
+    },
+    {
+        "name": "Calle 95",
+        "address": "Bogotá : Calle 95 # 13 – 55",
+        "phone": null,
+        "working_hours": [
+            "Lunes a Sábado: 8:30 a. m. / 6:00 p.m.Domingos y festivos: 9:30 a. m. / 6:00 p.m."
+        ],
+        "coordinates": [
+            4.6799865,
+            -74.0482608
+        ]
+    },
+    {
+        "name": "Aeropuerto InternacionalEl Dorado  - Puente Aéreo",
+        "address": "Bogotá : Terminal Puente Aéreo",
+        "phone": null,
+        "working_hours": [
+            "Lunes a domingos incluye festivos: 6:30 a. m. / 9:30 p.m."
+        ],
+        "coordinates": null
+    },
+    {
+        "name": "Aeropuerto InternacionalEl Dorado -\nMuelle Sur",
+        "address": "Bogotá : Av. El Dorado # 113 – 85Muelle Nacional Sur – Segundo Piso",
+        "phone": null,
+        "working_hours": [
+            "Prestamos servicio 24 horas."
+        ],
+        "coordinates": [
+            4.631168,
+            -74.0838766
+        ]
+    },
+    {
+        "name": "Aeropuerto InternacionalEl Dorado -\nMuelle Norte",
+        "address": "Bogotá : Aeropuerto El Dorado – Terminal 1 muelle Nacional Norte",
+        "phone": null,
+        "working_hours": [
+            "Prestamos servicio 24 horas."
+        ],
+        "coordinates": [
+            4.6959713,
+            -74.1428431
+        ]
+    },
+    {
+        "name": "Aeropuerto InternacionalEl Dorado - Salidas Internacionales",
+        "address": "Bogotá : Av. El Dorado # 113 – 85Salida Internacional – Segundo Piso",
+        "phone": null,
+        "working_hours": [
+            "Prestamos servicio las 24 horas."
+        ],
+        "coordinates": [
+            4.631168,
+            -74.0838766
+        ]
+    },
+    {
+        "name": "Aeropuerto Internacional El Dorado - Hall Público",
+        "address": "Bogotá : Aeropuerto El Dorado – Llegadas nacionales",
+        "phone": null,
+        "working_hours": [
+            "Prestamos servicio 24 horas."
+        ],
+        "coordinates": [
+            4.6959713,
+            -74.1428431
+        ]
+    },
+    {
+        "name": "Aeropuerto InternacionalLos Garzones - Zona Pública",
+        "address": "Montería :Km 10 vía MonteríaLocal 102 – Zona pública",
+        "phone": "3116447470",
+        "working_hours": [
+            "Lunes a Sábado: 6:30 a.m. / 8:30 p.m.Domingos y festivos: 6:30 a.m. / 8:30 p.m."
+        ],
+        "coordinates": null
+    },
+    {
+        "name": "Aeropuerto InternacionalLos Garzones - Sala Abordaje",
+        "address": "Montería :Km 10 vía MonteríaLocal 107 – Sala de abordaje",
+        "phone": "3116447470",
+        "working_hours": [
+            "Lunes a Sábado: 6:30 a.m. / 8:30 p.m.Domingos y festivos: 6:30 a.m. / 8:30 p.m."
+        ],
+        "coordinates": null
+    },
+    {
+        "name": "Aeropuerto InternacionalMatecaña – Pereira, Risaralda",
+        "address": "Pereira :Km 4 Vía Cerritos, Local 59",
+        "phone": "Contacto 315 366 1214",
+        "working_hours": [
+            "Lunes a domingo: 5:00 a.m. / 12:00 a.m."
+        ],
+        "coordinates": [
+            4.8139032,
+            -75.7883021
+        ]
+    },
+    {
+        "name": "Aeropuerto InternacionalErnesto Cortissoz – Soledad, Barranquilla",
+        "address": "Barranquilla :Frente al counter de Copa Air LinesLocal 020516",
+        "phone": "Contacto 316 017 5000",
+        "working_hours": [
+            "Lunes a sábado: 4:00 a.m. / 8:30 p.m.Domingos y festivos: 6:30 a.m. / 8:30 p.m."
+        ],
+        "coordinates": null
+    }
+]

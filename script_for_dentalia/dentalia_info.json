@@ -1,0 +1,443 @@
+[
+    {
+        "name": "dentalia Encuentro Oceanía",
+        "address": "Av. del Pe n 355, Moctezuma 2da Secc, Venustiano Carranza, 15530 Ciudad de M xico, CDMX. 2do piso, frente a Playtime, a un costado de Cinemex.",
+        "coordinates": null,
+        "phone_number": "(55) 5766-9999 , (55) 1164-9418",
+        "hours": "L-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Galerías Monterrey",
+        "address": "Av Insurgentes 2500-Local 737, Vista Hermosa, 64630 Monterrey, N.L. Planta Baja local 152, a lado de BBVA, frente a Wendy's. Acceso por fleteros.",
+        "coordinates": null,
+        "phone_number": "(81) 81 23 36 29 , (81) 81 23 93 34",
+        "hours": "L-V 9:00 a 21:00, S-D 10:00 a 19:00"
+    },
+    {
+        "name": "dentalia Península Tijuana",
+        "address": "V a R pida Ote. 15000 Chapultepec Alamar, 22150 Tijuana, B.C. Local L-46 2do piso, a un costado de Cuadra y Carter's.",
+        "coordinates": null,
+        "phone_number": "(664) 423 0960, (664) 423 0961",
+        "hours": "L-V 9:00 a 20:00, S-D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia Galerías Atizapán",
+        "address": "Avenida Ruiz Cortines n mero 255,  Mz 2, Lt I, Manzana II, Frac. Lomas de Atizap n, CP 52977, Atizap n de Zaragoza, Estado de M xico. Primer piso, a un costado de Cin polis.",
+        "coordinates": null,
+        "phone_number": "(55) 41 23 75 18  , (55) 41 23 75 19",
+        "hours": "L-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Acoxpa",
+        "address": "Calz. Acoxpa 430, Ex-Hacienda Coapa, 14300, CDMX. En los locales frente al estacionamiento descubierto, a dos locales de Starbucks.",
+        "coordinates": null,
+        "phone_number": "(55) 5677-2198 , (55) 5678-0750",
+        "hours": "L-V 10:00 a 20:00, S-D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia Centro Santa Fe",
+        "address": "Vasco de Quiroga 3800, Lomas de Santa Fe, Contadero, Cuajimalpa de Morelos, 05348 Ciudad de M xico, CDMX Local 569. 3er piso, por Palacio de Hierro.",
+        "coordinates": null,
+        "phone_number": "(55) 4737 8430, (55) 4737 8431",
+        "hours": "L-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Las Misiones",
+        "address": "Boulevard Te filo Borunda 8681, Col. Partido Iglesias, CP. 32663, Ciudad Ju rez, Chihuahua, M xico. Planta alta, a un costado del  rea de comida.",
+        "coordinates": null,
+        "phone_number": "(656) 478-7700, (656) 478-7701",
+        "hours": "L-V 9:00 a 20:00, S-D 9:00 a18:00"
+    },
+    {
+        "name": "dentalia Galería Mérida",
+        "address": "Calle 60 299-X3 y 3A Local: 262, Revoluci n, 97115, M rida Yucat n",
+        "coordinates": null,
+        "phone_number": "(99) 9941-5665 , (99) 9941-5662",
+        "hours": "L-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Altabrisa",
+        "address": "Calle 7 451, Fraccionamiento Altabrisa, 97133 M rida, Yuc. Local 122, planta alta. Cerca de los cines, a un costado de Sally Beauty, frente a  ptica Molina.",
+        "coordinates": null,
+        "phone_number": "(99) 9211-0274",
+        "hours": "L-V 9:00 - 21:00, S-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Playa del Carmen",
+        "address": "Calle Quinta Avenida 156, Gonzalo Guerrero, 77710 Playa del Carmen, Q.R. Frente a la tienda  mbar Mexicano.",
+        "coordinates": null,
+        "phone_number": "(98) 4803-0461  , (98) 4803-2962",
+        "hours": "L-S 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Urban Center Cancun",
+        "address": "Av. Nichupt  S/N entre Acanceh y Tulum, Supermanzana 15-A Manzana 4, Lote 1, 77500 Canc n, Q.R. Entrando, a la derecha, a un costado de Petco.",
+        "coordinates": null,
+        "phone_number": "(99) 8882 1395  , (99) 8882 1393",
+        "hours": "L-V 9:00 a 20:00, S 10:00 a 20:00, D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia Real Center",
+        "address": "Av. Servidor P blico 3600, Local C10-11, Col. Residencial Poniente, C.P. 45136, Zapopan Jalisco. Entrando por Petco, al final de los locales, a un costado de Cin polis.",
+        "coordinates": null,
+        "phone_number": "(33) 1371 5223  , (33) 1371 5047",
+        "hours": "L-V 9:00 a 21:00, S 9:00 a 20:00, D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia Midtown Jalisco",
+        "address": "Avenida Adolfo L pez Mateos Norte No. 2405, Local L-77, Col. Italia Providencia Zona 2 Minerva, C.P. 44648, Guadalajara, Jalisco. 1er piso, cerca de Starbucks, a espaldas de H&M.",
+        "coordinates": null,
+        "phone_number": "(333) 817-1929 , (333) 817-1657",
+        "hours": "L-V 9:00 a 21:00, S-D 10:00 a 20:00"
+    },
+    {
+        "name": "dentalia Gran Plaza",
+        "address": "Av. Ignacio L. Vallarta #3959 Int M03/M04, Col. Don Bosco Vallarta, CP 45049, Zapopan Jalisco. 2do piso, junto a Sears, frente a Telcel.",
+        "coordinates": null,
+        "phone_number": "(33) 3621-1851 , (33) 3621-1852",
+        "hours": "L-V 9:00 a 21:00, S 9:00 a 19:00, D 10:00 a 19:00"
+    },
+    {
+        "name": "dentalia Galerías Guadalajara",
+        "address": "Avenida Rafael Sanzio #150, Local U-5, Col. La Estancia, Municipio de Zapopan, C.P. 45030, Estado de Jalisco. 3er piso, entrando por Banamex y Bancomer, frente a H&M.",
+        "coordinates": null,
+        "phone_number": "(33) 3632-1745  , (33) 3631-2172",
+        "hours": "L-V 9:00 a 21:00, S 10:00 a 20:00, D 10:00 a 19:00"
+    },
+    {
+        "name": "dentalia Andares",
+        "address": "Blvd. Puerta de Hierro 4965, Puerta de Hierro, 45116, Zapopan, Jalisco. S tano 2, Frente a columnas verdes letra U, a lado de la academia de baile 28:20.",
+        "coordinates": null,
+        "phone_number": "(33) 36 11 17 25 , (33) 36 11 20 45",
+        "hours": "L-V 9:00 a 21:00, S 10:00 a 20:00, D 10:00 a 19:00"
+    },
+    {
+        "name": "dentalia Chihuahua",
+        "address": "Av. Perif rico de la Juventud 3501, Local U-59 y U-60 Fracc. Plaza del Sol, 31236, Chihuahua. Planta alta, entre Liverpool y la tienda Arte Egipcio.",
+        "coordinates": null,
+        "phone_number": "(614) 430-3127   , (614) 430-1487",
+        "hours": "L-V 9:00 a 21:00, S 9:00 a 18:00, D 10:00 a 19:00"
+    },
+    {
+        "name": "dentalia Paseo Chapultepec",
+        "address": "Blvd. Agua Caliente 10387, Neidhart, 22020 Tijuana, B.C. BC. 2do piso, Local C-203.",
+        "coordinates": null,
+        "phone_number": "(664) 681-8528  , (664) 681-8911",
+        "hours": "L-V 9:00 a 20:00, S-D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia City Center Pitic",
+        "address": "Boulevard Jos  Mar a Morelos y Pav n 355, Bachoco, 83148, Sonora.",
+        "coordinates": null,
+        "phone_number": "(662) 211-1347  , (662) 211-1402",
+        "hours": "L-V 9:00 a 20:00, S-D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia Galería Hermosillo",
+        "address": "Blvd. Cultura 55 Oriente, Local C-19 y C-20, Proyecto Rio Sonora, 83280, Hermosillo, Sonora. Local C-19 y C-20 Enfrente de Relaciones Exteriores.",
+        "coordinates": null,
+        "phone_number": "(662) 212-1961 , (662) 212-0869",
+        "hours": "L-D 9:00 a 20:00"
+    },
+    {
+        "name": "dentalia Galerías Saltillo — Clínica dental dentalia®",
+        "address": "Blvd. Nazario Ortiz Garza No. 2345 L-142 Col. Tanque de Pe a, C.P. 25279  Saltillo, Coahuila. En planta baja, entrando por Scotiabank y H&M.",
+        "coordinates": null,
+        "phone_number": "(844) 485-1749  , (844) 485-1820",
+        "hours": "L-V 9:00 a 20:00, S-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Galerías Laguna",
+        "address": "Av. Perif rico Ra l L pez S nchez, 6000 L-275, El Fresno, 27018  Torre n, Coahuila. En Planta alta, accesando por Sears, a un lado de Telcel.",
+        "coordinates": null,
+        "phone_number": "(871) 750-8099 , (871) 750-8213",
+        "hours": "L-V 11:00 a 21:00, S-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Galerías Valle Oriente",
+        "address": "Av. L zaro C rdenas No. 1000 Local 1158 Col. Valle del Mirador C.P. 64750 San Pedro, Nuevo Le n. Planta baja, entrando por Liverpool, frente a la Jungla de Timo, a lado de Galer a Contagiarte.",
+        "coordinates": null,
+        "phone_number": "(81) 8486-0015   , (81) 8486-0016",
+        "hours": "L-V 9:00 a 21:00, S-D 10:00 a 19:00"
+    },
+    {
+        "name": "dentalia Multiplaza",
+        "address": "Av. Miguel Alem n 5054, Local 144, Col, Linda Vista, Guadalupe N.L., 67130. Fuera de la plaza, en el  rea de estacionamiento, a un lado de Montep o.",
+        "coordinates": null,
+        "phone_number": "(81) 8850-4121  , (81) 8850-4122",
+        "hours": "L-V 9:00 a 20:00, S-D 10:00 a 19:00"
+    },
+    {
+        "name": "dentalia Fiesta San Agustín",
+        "address": "Av. Real San Agustin 222, LOCAL 22 -28, Zona San Agust n, 66260 San Pedro Garza Garc a, N.L. 2do piso, frente a Peter Piper Pizza.",
+        "coordinates": null,
+        "phone_number": "(818) 363-1481 , (818) 363-5157",
+        "hours": "L-V 9:00 a 20:00, S-D 10:00 a 19:00"
+    },
+    {
+        "name": "dentalia Citadel",
+        "address": "Av. R mulo Garza 410, Local B-11, La Fe, 66477, San Nicol s de los Garza, N. L. En planta baja, en el pasillo de helados Santa Clara, frente a la m quina de peluches.",
+        "coordinates": null,
+        "phone_number": "(818) 240-9650 , (818) 240-9651",
+        "hours": "L-V 9:00 a 20:00, S-D 10:00 a 19:00"
+    },
+    {
+        "name": "dentalia Fiesta Anáhuac",
+        "address": "Nte., Av. Manuel L. Barrag n 325, Local 2000 y 2001, An huac, 66450, San Nicol s de los Garza, N.L. 2do piso, a lado de Sears, frente a Movistar.",
+        "coordinates": null,
+        "phone_number": "(81) 8332-2975 , (81) 8332-2992",
+        "hours": "L-V 9:00 a 21:00, S-D 10:00 a 19:00"
+    },
+    {
+        "name": "dentalia Plaza San Luis",
+        "address": "Blvd. Antonio Rocha Cordero 700 local B-37 Fracc. Lomas del Tecnol gico, 78215, San Luis Potos . En planta baja, entrando por Liverpool, frente a Starbucks.",
+        "coordinates": null,
+        "phone_number": "(44) 4817 4435  , (44) 4817 4438",
+        "hours": "L-V 9:00 a 21:00, S 10:00 a 20:00, D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Plaza Mayor",
+        "address": "Blvd. Juan Alonso de Torres No. 2002 Loc. 2342 Col. Valle del Campestre, 37150 Le n Guanajuato. 2do piso, entre la zapater a Jarquin y el local de pies y salud.",
+        "coordinates": null,
+        "phone_number": "(47) 7717 2580 , (47) 7717 5862",
+        "hours": "L-V 9:00 a 21:00, S 10:00 a 20:00, D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia Altaria",
+        "address": "Blvd. A Zacatecas #849, L-1117 A y L-1117B, Trojes de Alonso, C.P. 20116, Aguascalientes, Aguascalientes. De lado de La Comer, frente a Sport World y Coppel.",
+        "coordinates": null,
+        "phone_number": "(44) 9925- 8100  , (44) 9925- 8101",
+        "hours": "L-V 9:00 a 20:00, S-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Plaza Solesta",
+        "address": "Atlixc yotl 4931, L-29 y L-35, Reserva Territorial Atlixc yotl, Centros Comerciales Desarrollo Atlixc yotl, CP. 72193, Puebla, Puebla. 1er piso, atr s del restaurante Mochomos.",
+        "coordinates": null,
+        "phone_number": "(22) 2283-9713  , (22) 228-39810",
+        "hours": "L-V 9:00 a 21:00, S 9:00 a 20:00, D 9:00 a 19:00"
+    },
+    {
+        "name": "dentalia La Victoria",
+        "address": "Av. Constituyentes Ote. 40, Mercurio, 76040 Santiago de Quer taro, Qro. En s tano 2, entre coppel y smart fit. Local 38b.",
+        "coordinates": null,
+        "phone_number": "(442) 229-1010 , (442) 229 -1035",
+        "hours": "L - 8:00 a 21:00, M - 11:00 a 21:00, M - 10:00 a 21:00, J - 8:00 a 21:00, V - 11:00 a 21:00, S - 11:00 a 21:00, D - 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Urban Center Juriquilla",
+        "address": "Blvd. Jurica La Campana, 899 L-22-23, Residencial Caletto, 76230  Qro. Juriquilla. 2do piso frente a Toks, arriba de Fresko.",
+        "coordinates": null,
+        "phone_number": "(44) 2688-1100  , (44) 2688-1101",
+        "hours": "L-V 9:00 a 20:00, S 9:00 a 18:00, D 10:00 a 17:00"
+    },
+    {
+        "name": "dentalia Satélite, Naucalpan",
+        "address": "Circuito Centro Comercial N. 2252, Local SA01, Ciudad Sat lite, Municipio Naucalpan de Juar z, C.P. 53100, Edo. Mex. Debajo de Codere.",
+        "coordinates": null,
+        "phone_number": "(55) 1102 3864, (55) 1102 3865",
+        "hours": "L-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Parque Toreo",
+        "address": "Boulevard Manuel  vila Camacho No. 5 L-18 y L-19, Fraccionamiento Lomas de Sotelo, C.P. 53390. Naucalpan de Ju rez, Edo. Mex. Frente a HSBC, a lado de Cuidado con el Perro.",
+        "coordinates": null,
+        "phone_number": "(55) 5080 4862, (55) 5080 4863",
+        "hours": "L-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Valle Dorado",
+        "address": "Blvd. Manuel  vila Camacho, 3130 L-119,  Valle Dorado, 54020 Tlalnepantla, Estado de M xico. 1er piso, al fondo.",
+        "coordinates": null,
+        "phone_number": "(55) 2159-4878  , (55) 5378-4927",
+        "hours": "L-V 9:00 a 21:00, S 9:00 a 20:00, D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia Mundo E",
+        "address": "Perif. Blvd. Manuel  vila Camacho 1007, LOCAL 26B-27B. Hab Jardines de Santa Monica, Tlalnepantla, 54050. 1er nivel, frente a los elevadores, entre Novias de Espa a y Pampas.",
+        "coordinates": null,
+        "phone_number": "(55) 5047-2095  , (55) 5047-2096",
+        "hours": "L, J y V 10:00 a 20:00, M, M, S y D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Metepec",
+        "address": "Av. Ignacio Comonfort 1100, Local 208, Residencial la Providencia, 52177 Providencia, M x. 2so piso, cerca el  rea de juegos y de Joyer as Bizzarro, frente al Divots.",
+        "coordinates": null,
+        "phone_number": "(722) 271-3108 , (722) 271-6764",
+        "hours": "L-S 9:00 a 20:00, D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Lomas Verdes",
+        "address": "Colina de La Paz 25, Boulevares, Local l203, 53120 Naucalpan de Ju rez, M x. Entre el restaurante Casa de To o y BBVA.",
+        "coordinates": null,
+        "phone_number": "(55) 5374-2169 , (55) 1663-0519",
+        "hours": "L-V 9:00 a 21:00, S 10:00 a 20:00, D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Interlomas",
+        "address": "Blvd. Magnocentro 26, local B20- B22 Y B-23, La Herradura, 52760 Naucalpan de Ju rez, M x. Abajo de Walmart, frente al S per Naturista y Dormimundo.",
+        "coordinates": null,
+        "phone_number": "(55) 5290-1807  , (55) 5290-0389",
+        "hours": "L-V 8:00 a 20:00, S-D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia La Cúspide",
+        "address": "Av. Lomas Verdes Lote 21 Loc. 44-C, Lomas Verdes 5  Secc. La Concordia, 53129, Edo de M x",
+        "coordinates": null,
+        "phone_number": "(55) 53 49 27 60  , (55) 53 49 24 90",
+        "hours": "L-D 10:00 a 19:00"
+    },
+    {
+        "name": "dentalia Viaducto",
+        "address": "Viaducto R o de la Piedad 515, Granjas, 08400, CDMX.  1er piso, a lado de Smart Fit.",
+        "coordinates": null,
+        "phone_number": "(55) 4737 8436",
+        "hours": "L-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Patio Universidad",
+        "address": "Av. Popocat petl 546, Xoco, 03330 Ciudad de M xico, CDMX. 2do piso, a un costado de Cin polis.",
+        "coordinates": null,
+        "phone_number": "(55) 5604-5946 , (55) 5601-4242",
+        "hours": "L-V 9:00 a 21:00, S 10:00 a 20:00, D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia Tlatelolco",
+        "address": "Manuel Gonz lez 95, San Sim n Tolnahuac, Cuauht moc, 06920 Ciudad de M xico, CDMX. A pie de calle, a lado de las escaleras el ctricas.",
+        "coordinates": null,
+        "phone_number": "(55) 47 37 84 34  , (55) 47 37 84 32",
+        "hours": "L-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Tezontle",
+        "address": "Av. Canal De Tezontle 1512 Local 279, Alfonso Ortiz Tirado, 09020, Iztapalapa, CDMX. 2do piso, a lado de The Body Shop, frente a Italianni s.",
+        "coordinates": null,
+        "phone_number": "(55) 9129-0134  , (55) 9129-0338",
+        "hours": "L-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Samara",
+        "address": "Antonio Dovali Jaime 70 LOCAL PL09B, Zedec Sta F , 01219 Ciudad de M xico. En planta baja, diagonal a Cin polis o Sally Beauty.",
+        "coordinates": null,
+        "phone_number": "(55) 5775-6886  , (55) 1163-5536",
+        "hours": "L-V 8:00 a 20:00, S-D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia Reforma 222",
+        "address": "Av. Paseo de la Reforma 222, Local 208, Ju rez, Cuauht moc, 06600,CDMX. Frente a Cinemex y a lado de Smartfit.",
+        "coordinates": null,
+        "phone_number": "(55) 5511-8567  , (55) 5533-2061",
+        "hours": "L-D 7:00 a 20:00"
+    },
+    {
+        "name": "dentalia Plaza Carso",
+        "address": "Lago Zurich no.219 Col. Ampliaci n Granada, Alcald a Miguel Hidalgo C.P. 11529 Ciudad de M xico. Local PA-03, junto a Academia Europea de idiomas, frente a Go Kart.",
+        "coordinates": null,
+        "phone_number": "(55) 5580-7866  , (55) 5395-5433",
+        "hours": "L-V 8:00 a 21:00, S-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Pedregal",
+        "address": "Perif rico Sur 4268, Jardines del Pedregal de San  ngel, Coyoac n, 04500 Ciudad de M xico, CDMX. S tano 1, frente al elevador.",
+        "coordinates": null,
+        "phone_number": "(55) 5677-2596  , (55) 2487-3387",
+        "hours": "L-V 9:00 a 21:00, S-D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia Parque Delta",
+        "address": "Av. Cuauht moc No. 462, Locales L-301 y L-301B, Colonia Piedad Narvarte, Benito Ju rez, C.P. 03000, CDMX. Junto a Cinemex Platinum.",
+        "coordinates": null,
+        "phone_number": "(55) 5080 4860 , (55) 5080 4861",
+        "hours": "L-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Patriotismo",
+        "address": "Av. Patriotismo 229, San Pedro de los Pinos, Int Local 116-a, 03800 Benito Ju rez, CDMX. 1er piso, frente a las escaleras el ctricas que van al cine.",
+        "coordinates": null,
+        "phone_number": "(55) 35 47-27 47  , (55) 55 16-93 37",
+        "hours": "L-V 9:00 a 21:00, S-D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia Miyana",
+        "address": "Av. Ejercito Nacional Mexicano 769 Esq. Moliere, Granada, Miguel Hidalgo, 11520 CDMX. Local S03 Y S03-A. S tano 1, junto a la lavander a y la est tica.",
+        "coordinates": null,
+        "phone_number": "(55) 3602-4258",
+        "hours": "L-V 7:00 a 20:00 , S-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Oasis Coyoacán",
+        "address": "Av. Universidad #1778 Local ML-02, Col. Romero de Terreros Del. Coyoac n M xico D,F. 04310. En el s tano 1, a lado de Sports World, frente a Farmacia Benavides.",
+        "coordinates": null,
+        "phone_number": "(55) 5554-4990  , (55) 5554-5448",
+        "hours": "L-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Parque Lindavista",
+        "address": "Calle Colector 13, 280 Local 503 y 504,Magdalena de las Salinas Gustavo A. Madero, 07760. Entrando de lado izquierdo, bajando las escaleras, en s tano 1 junto al Casino Jack.",
+        "coordinates": null,
+        "phone_number": "(55) 5119-9966 , (55) 5586-0583",
+        "hours": "L-V 9:00 a 21:00, S-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Gran Sur",
+        "address": "Av. Del Im n 151 Local A-2-127, Pedregal de Carrasco, 04700, Coyoac n, CDMX. Cerca de la zona de comida r pida, hacia Cinemex, frente a Puma.",
+        "coordinates": null,
+        "phone_number": "(55) 2457-1950 , (55) 2457-1951",
+        "hours": "L-V 11:00 a 20:00, S-D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia Las Antenas",
+        "address": "Av. Canal de Garay 3278, LOCAL 245-246-246B, La Esperanza, Iztapalapa. 09910. 2do piso, a lado de Los Bisquets Obreg n, frente a Juguetr n.",
+        "coordinates": null,
+        "phone_number": "(55) 5047-2093  , (55) 5047-2094",
+        "hours": "L-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Encuentro Fortuna",
+        "address": "Av. Fortuna 334, Local SC-07, Nivel 2, Magdalena de las Salinas,  07370 CDMX. Tercer piso, de lado izquierdo.",
+        "coordinates": null,
+        "phone_number": "(55) 5035 6918 , (55) 9130 6275",
+        "hours": "L-V 11:00 a 20:00, S-D 10:00 a 19:00"
+    },
+    {
+        "name": "dentalia Del Valle",
+        "address": "F lix Cuevas No. 374, local C-01, Del Valle, Benito Ju rez, CDMX. A pie de calle, junto a los elevadores.",
+        "coordinates": null,
+        "phone_number": "(55) 53 35 07 17  , (55) 55 59 17 38",
+        "hours": "L-V 9:00 a 21:00, S 9:00 a 20:00, D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia Diagonal Cuitláhuac",
+        "address": "Av. Cuitl huac 2309, L-80, L-09, L-10, San Salvador Xochimanca, Azcapotzalco, 02870 CDMX. 1er piso, a al lado de Petco, frente a Office Depot.",
+        "coordinates": null,
+        "phone_number": "(55) 4737-8440  , (55) 4737-8441",
+        "hours": "L-V 11:00 a 20:00, S 10:00 a 20:00, D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Punto MAQ Coyoacán",
+        "address": "Av. Miguel  ngel de Quevedo 1144-S, L-A-17, Parque San Andr s, 04040, CDMX. 1er piso, a lado del restaurante La Casa de To o.",
+        "coordinates": null,
+        "phone_number": "(55) 4737-8480  , (55) 4737-8481",
+        "hours": "L-D 11:00 a 20:00"
+    },
+    {
+        "name": "dentalia Coapa",
+        "address": "Calzada Acoxpa No. 610, Villa Coapa, Tlalpan, 14390, CDMX. En el mismo pasillo de Nutrisa y Cielito Querido, a un lado de Citibanamex.",
+        "coordinates": null,
+        "phone_number": "(55) 4737-8438 , (55) 4737-8439",
+        "hours": "L-V 11:00 a 20:00, S-D 9:00 a 18:00"
+    },
+    {
+        "name": "dentalia Buenavista",
+        "address": "Eje 1 Norte Mosqueta 259, Buenavista, Cuauht moc, 06350, CDMX. 3er piso, cerca de la pista de hielo, junto al gimnasio C+, frente a Sushi Roll.",
+        "coordinates": null,
+        "phone_number": "(55) 5541-1096 , (55) 5541-0348",
+        "hours": "L-J 10:00 a 21:00, V 10:00 a 20:00, S-D 10:00 a 19:00"
+    },
+    {
+        "name": "dentalia Altavista",
+        "address": "Plaza Altavista Calzada, Desierto de los Leones 52,  lvaro Obreg n, 01000 Ciudad de M xico, CDMX. Planta baja, frente al kiosko de Krispy Kreme.",
+        "coordinates": null,
+        "phone_number": "(55) 5616-2386 , (55) 5616-8248",
+        "hours": "L-V 9:00 a 20:00, S-D 9:00 a 18:00"
+    }
+]
